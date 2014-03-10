@@ -19,6 +19,8 @@ public class ProyectoGit {
         //Esto lo estoy haciendo para la practica de Entornos
         //Tengo que hacer varios commit
         //***********cambios********para diferenciarlos*********
+        //creo barras//////////////////
+        //creo asteriocos*************
        
     }
 }
