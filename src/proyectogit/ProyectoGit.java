@@ -22,6 +22,8 @@ public class ProyectoGit {
         //creo barras//////////////////
         //creo asteriocos*************
         //cambios para el github
+//        HOLA SOMOS OSCAR Y ANA REALIZANDO UN BRANCH EN EL PROYECTO DE SONIA Y
+//                ANGELA, CONECTADOS CON SU GITHUB
        
     }
 }
